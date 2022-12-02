@@ -1,0 +1,482 @@
+.body
+{
+position:absolute;
+background-color:#ffffff;
+height:982px;
+width:1512px;
+padding:0px;
+left: 50%;
+}
+.logo-1-removebg-preview-11
+{
+height:291.0923156738281px;
+width:318px;
+left:200px;
+top:-20px;
+position:absolute;
+}
+.kereta
+{
+color:#024461;
+text-align:left;
+vertical-align:text-top;
+font-size:24px;
+font-family:Inter;
+line-height:auto;
+left:1200px;
+top:78px;
+position:absolute;
+width:182px;
+text-decoration: none;
+}
+.pesawat
+{
+color:#024461;
+text-align:left;
+vertical-align:text-top;
+font-size:24px;
+font-family:Inter;
+left:1300px;
+top:78px;
+width:182px;
+height:45px;
+position:absolute;
+line-height:auto;
+text-decoration: none;
+
+}
+.paketliburan
+{
+color:#024461;
+text-align:left;
+vertical-align:text-top;
+font-size:24px;
+font-family:Inter;
+left:1480px;
+top:80px;
+width:182px;
+height:45px;
+position:absolute;
+line-height:auto;
+text-decoration: none;
+
+}
+.hotel
+{
+color:#024461;
+text-align:left;
+vertical-align:text-top;
+font-size:24px;
+font-family:Inter;
+left:1400px;
+top:80px;
+width:182px;
+height:45px;
+position:absolute;
+line-height:auto;
+text-decoration: none;
+
+}
+.rectangle9
+{
+background-color:#e25f00;
+height:424px;
+width:1512px;
+top:165px;
+left:200px;
+position:absolute;
+}
+.rectangle10
+{
+background-color:#ebebeb;
+height:452px;
+width:1398px;
+border-radius:10px;
+top:265px;
+left:250px;
+position:absolute;
+}
+.ellipse6
+{
+background-color:#d9d9d9;
+height:56px;
+width:56px;
+top:300px;
+left: 275px;
+position:absolute;
+border-radius:50%;
+}
+.image7
+{
+height:42px;
+width:42px;
+left:280px;
+top:306px;
+position:absolute;
+}
+.line3
+{
+width:1390.0057373046875px;
+transform:rotate(0deg);
+border:1px solid #024461;
+top:381px;
+left:250px;
+position:absolute;
+}
+.line4
+{
+width:1390.0057373046875px;
+transform:rotate(0deg);
+border:1px solid #024461;
+top:491px;
+left:250px;
+position:absolute;
+}
+.image15
+{
+height:41px;
+width:41px;
+left:260px;
+top:414px;
+position:absolute;
+}
+.berangkatdari
+{
+color:#c4c4c4;
+text-align:left;
+vertical-align:text-top;
+font-size:24px;
+font-family:Inter;
+left:320px;
+top:420px;
+width:225px;
+height:58px;
+position:absolute;
+line-height:auto;
+}
+.sampaidi
+{
+color:#c4c4c4;
+text-align:left;
+vertical-align:text-top;
+font-size:24px;
+font-family:Inter;
+left:640px;
+top:425px;
+width:225px;
+height:58px;
+position:absolute;
+line-height:auto;
+}
+.tanggalberangkat
+{
+color:#c4c4c4;
+text-align:left;
+vertical-align:text-top;
+font-size:24px;
+font-family:Inter;
+left:900px;
+top:425px;
+width:225px;
+height:58px;
+position:absolute;
+line-height:auto;
+}
+.penumpang-kelaskabin
+{
+color:#c4c4c4;
+text-align:left;
+vertical-align:text-top;
+font-size:20px;
+font-family:Inter;
+left:1200px;
+top:396px;
+width:264px;
+height:58px;
+position:absolute;
+line-height:auto;
+}
+.penumpang-eksklusif
+{
+color:#000000;
+text-align:left;
+vertical-align:text-top;
+font-size:20px;
+font-family:Inter;
+left:1200px;
+top:436px;
+width:264px;
+height:58px;
+position:absolute;
+line-height:auto;
+}
+.partnershipwith
+{
+color:#000000;
+text-align:left;
+vertical-align:text-top;
+font-size:20px;
+font-family:Inter;
+left:860px;
+top:737px;
+width:264px;
+height:58px;
+position:absolute;
+line-height:auto;
+}
+.line5
+{
+width:111px;
+transform:rotate(-91deg);
+border:1px solid #024461;
+top:437px;
+left:450px;
+position:absolute;
+}
+.line6
+{
+width:111px;
+transform:rotate(-91deg);
+border:1px solid #024461;
+top:437px;
+left:730px;
+position:absolute;
+}
+.line7
+{
+width:111px;
+transform:rotate(-91deg);
+border:1px solid #024461;
+top:437px;
+left:1100px;
+position:absolute;
+}
+.image16
+{
+height:41px;
+width:41px;
+left:570px;
+top:413px;
+position:absolute;
+}
+.image17
+{
+height:41px;
+width:41px;
+transform:rotate(90deg);
+left:331px;
+top:454px;
+position:absolute;
+}
+.image18
+{
+height:39px;
+width:39px;
+left: 1270px;
+top: 380px;
+position:absolute;
+opacity: 65%;
+}
+.image19
+{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 1160px;
+    top: 390px;
+    
+    background: url(image.png);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.image17
+{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 1560px;
+    top: 390px;
+    
+    background: url(image.png);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.rectangle12
+{
+background-color:#e25f00;
+width: 404px;
+height: 74px;
+border-radius:20px;
+left: 1017px;
+top: 594px;
+position:absolute;
+}
+.carikereta
+{
+color:#ffffff;
+text-align:left;
+vertical-align:text-top;
+font-size:25px;
+font-family:Inter;
+width: 252px;
+height: 39px;
+left: 1115px;
+top: 615px;
+position:absolute;
+line-height:auto;
+text-decoration: none;
+}
+.image21
+{
+    height: 150px;
+    width: 150px;
+    left: 850px;
+    top:775px;
+    position:absolute;
+}
+.pt-keretaapiindonesia
+{
+color:#000000;
+text-align:center;
+vertical-align:text-top;
+font-size:30px;
+font-family:Inter;
+left:745px;
+top: 929px;
+width:374px;
+height:60px;
+position:absolute;
+line-height:auto;
+}
+.tiketkereta
+{
+color:#000000;
+text-align:left;
+vertical-align:text-top;
+font-size:24px;
+font-family:Inter;
+left: 1175px;
+top: 300px;
+width:282px;
+height:43px;
+position:absolute;
+line-height:auto;
+}
+.diskon1 
+{
+    position: absolute;
+width: 300px;
+height: 170px;
+left: 300px;
+top: 505px;
+background: url(WhatsApp Image 2022-11-28 at 13.37);
+border-radius: 20px;
+}
+.diskon2
+{
+    position: absolute;
+    width: 300px;
+    height: 170px;
+    left: 300px;
+    top: 300px;
+    
+    background: url(WhatsApp Image 2022-11-28 at 12.32);
+    border-radius: 20px;
+}
+.rectangle13
+{
+    position: absolute;
+width: 349px;
+height: 64px;
+left: 850px;
+top: 368px;
+
+background: rgba(255, 255, 255, 0.65);
+border-radius: 20px;
+}
+.kotatujuan
+{
+    position: absolute;
+width: 225px;
+height: 58px;
+left: 875px;
+top: 384px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #C4C4C4;
+}
+.rectangle14
+{
+    position: absolute;
+width: 349px;
+height: 64px;
+left: 1250px;
+top: 368px;
+
+background: rgba(255, 255, 255, 0.65);
+border-radius: 20px;
+}
+.tanggal
+{
+    position: absolute;
+width: 225px;
+height: 58px;
+left: 1330px;
+top: 384px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #C4C4C4;
+}
+.rectangle15
+{
+    position: absolute;
+width: 349px;
+height: 64px;
+left: 1048px;
+top: 465px;
+
+background: rgba(255, 255, 255, 0.65);
+border-radius: 20px;
+}
+.jumlahorang
+{
+    position: absolute;
+width: 264px;
+height: 58px;
+left: 1080;
+top: 484px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 24px;
+
+color: #C4C4C4;
+}
+.ellipse6
+{
+    position: absolute;
+width: 60px;
+height: 60px;
+left: 1100px;
+top: 286px;
+
+background: #D9D9D9;
+}
+.tempatwisata
+{
+    position: absolute;
+width: 55px;
+height: 55px;
+left: 1102px;
+top: 285px;
+}
